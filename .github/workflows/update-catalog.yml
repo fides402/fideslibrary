@@ -1,32 +1,36 @@
-name: Aggiorna catalogo libri
+name: 📚 Aggiorna catalogo libri ogni giorno
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # ogni giorno alle 04:00 UTC
-  workflow_dispatch:
+    - cron: '0 4 * * *'  # Ogni giorno alle 04:00 UTC
+  workflow_dispatch:     # Avvio manuale opzionale
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Clona il repo
+      - name: 📥 Clona il repository
         uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: 🐍 Setup ambiente Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Installa dipendenze
-        run: pip install requests beautifulsoup4
+      - name: 📦 Installa le dipendenze
+        run: pip install -r requirements.txt
 
-      - name: Esegui script di scraping
+      - name: 🚀 Esegui aggiornamento catalogo
         run: python update_books.py
+        env:
+          ZLIB_EMAIL: ${{ secrets.ZLIB_EMAIL }}
+          ZLIB_PASSWORD: ${{ secrets.ZLIB_PASSWORD }}
 
-      - name: Commit e push se ci sono modifiche
+      - name: ✅ Commit e push se ci sono modifiche
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/*.json
-          git commit -m "📚 Update catalogo automatico" || echo "Nessuna modifica"
+          git commit -m "📚 Catalogo aggiornato automaticamente" || echo "Nessuna modifica da salvare"
           git push
