@@ -1,1 +1,3222 @@
-[]
+[
+  {
+    "title": "The Slave in Legal and Political Philosophy",
+    "author": [
+      {
+        "author": "Tom Frost",
+        "author_url": "https://z-library.sk/author/Tom%20Frost"
+      },
+      {
+        "author": "0 comments",
+        "author_url": "https://z-library.sk%23post"
+      },
+      {
+        "author": "Amazon",
+        "author_url": "https://z-library.skhttps%3A//amazon.com/s%3Fk%3DThe%2BSlave%2Bin%2BLegal%2Band%2BPolitical%2BPhilosophy%20Tom%2BFrost"
+      },
+      {
+        "author": "Barnes & Noble",
+        "author_url": "https://z-library.skhttps%3A//www.barnesandnoble.com/s/The%2BSlave%2Bin%2BLegal%2Band%2BPolitical%2BPhilosophy%20Tom%2BFrost"
+      },
+      {
+        "author": "Bookshop.org",
+        "author_url": "https://z-library.skhttps%3A//bookshop.org/search%3Fkeywords%3DThe%2BSlave%2Bin%2BLegal%2Band%2BPolitical%2BPhilosophy%20Tom%2BFrost"
+      },
+      {
+        "author": "support@z-lib.fm",
+        "author_url": "https://z-library.skmailto%3Asupport%40z-lib.fm"
+      },
+      {
+        "author": "Arts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D1"
+      },
+      {
+        "author": "Architecture",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D40"
+      },
+      {
+        "author": "Business of Art",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D49"
+      },
+      {
+        "author": "Conservation, Restoration & Care",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D51"
+      },
+      {
+        "author": "Contemporary Art",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D46"
+      },
+      {
+        "author": "Dance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D754"
+      },
+      {
+        "author": "Digital Music",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D179"
+      },
+      {
+        "author": "Fashion, Decorative Arts & Design",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D47"
+      },
+      {
+        "author": "Film",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D44"
+      },
+      {
+        "author": "Graphic Arts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D41"
+      },
+      {
+        "author": "History & Criticism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D50"
+      },
+      {
+        "author": "Museums & Collections",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D53"
+      },
+      {
+        "author": "Music",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D42"
+      },
+      {
+        "author": "Painting",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D56"
+      },
+      {
+        "author": "Performing Arts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D48"
+      },
+      {
+        "author": "Photography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D43"
+      },
+      {
+        "author": "Sculpture",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D45"
+      },
+      {
+        "author": "Study & Teaching",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D54"
+      },
+      {
+        "author": "Techniques",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D52"
+      },
+      {
+        "author": "Astronomy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D2"
+      },
+      {
+        "author": "Astronomers & Astrophysicists - Biography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D57"
+      },
+      {
+        "author": "Astronomical Star Guides",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D58"
+      },
+      {
+        "author": "Astrophysics & Space Science",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D62"
+      },
+      {
+        "author": "Cosmology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D60"
+      },
+      {
+        "author": "Galaxies - Astronomical Studies & Observations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D63"
+      },
+      {
+        "author": "History of Astronomy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D61"
+      },
+      {
+        "author": "Outer Space - Observation & Exploration",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D64"
+      },
+      {
+        "author": "Stars - Astronomical Studies & Observations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D65"
+      },
+      {
+        "author": "The Solar System - Astronomical Studies & Observations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D66"
+      },
+      {
+        "author": "The Universe - Astonomical Studies & Observations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D67"
+      },
+      {
+        "author": "Biography & Autobiography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D3"
+      },
+      {
+        "author": "Artists, Architects & Photographers",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D68"
+      },
+      {
+        "author": "Business & Finance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D70"
+      },
+      {
+        "author": "Education Biography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D72"
+      },
+      {
+        "author": "Entertainment Biography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D73"
+      },
+      {
+        "author": "Essays, Journals & Letters",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D74"
+      },
+      {
+        "author": "Film, Television & Music",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D75"
+      },
+      {
+        "author": "General & Miscellaneous Biography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D76"
+      },
+      {
+        "author": "Historical",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D77"
+      },
+      {
+        "author": "Holocaust",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D78"
+      },
+      {
+        "author": "Literary Biography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D79"
+      },
+      {
+        "author": "Medical, Legal & Social Sciences",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D80"
+      },
+      {
+        "author": "Novelists, Poets & Playwrights",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D81"
+      },
+      {
+        "author": "Peoples & Cultures - Biography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D82"
+      },
+      {
+        "author": "Political",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D83"
+      },
+      {
+        "author": "Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D84"
+      },
+      {
+        "author": "Religious",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D85"
+      },
+      {
+        "author": "Science, Mathematics & Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D86"
+      },
+      {
+        "author": "Social & Health Issues",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D87"
+      },
+      {
+        "author": "Sports & Adventure Biography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D88"
+      },
+      {
+        "author": "Theatre & Performance Art",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D89"
+      },
+      {
+        "author": "Tragic Life Stories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D90"
+      },
+      {
+        "author": "True Crime",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D91"
+      },
+      {
+        "author": "War & Espionage",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D92"
+      },
+      {
+        "author": "Biology and other natural sciences",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D4"
+      },
+      {
+        "author": "Biology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D94"
+      },
+      {
+        "author": "Biophysics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D97"
+      },
+      {
+        "author": "Biostatistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D98"
+      },
+      {
+        "author": "Biotechnology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D99"
+      },
+      {
+        "author": "Cytology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D109"
+      },
+      {
+        "author": "Ecology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D100"
+      },
+      {
+        "author": "Genetics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D101"
+      },
+      {
+        "author": "History of Biology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D110"
+      },
+      {
+        "author": "Human Biology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D741"
+      },
+      {
+        "author": "Microbiology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D102"
+      },
+      {
+        "author": "Molecular",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D103"
+      },
+      {
+        "author": "Paleontology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D108"
+      },
+      {
+        "author": "Plants: Agriculture and Forestry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D104"
+      },
+      {
+        "author": "Plants: Botany",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D105"
+      },
+      {
+        "author": "Virology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D106"
+      },
+      {
+        "author": "Zoology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D107"
+      },
+      {
+        "author": "Business & Economics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D5"
+      },
+      {
+        "author": "Accounting",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D111"
+      },
+      {
+        "author": "E-Commerce",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D112"
+      },
+      {
+        "author": "Econometrics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D121"
+      },
+      {
+        "author": "Economics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D819"
+      },
+      {
+        "author": "Human Resources",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D773"
+      },
+      {
+        "author": "Industries",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D757"
+      },
+      {
+        "author": "Investing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D122"
+      },
+      {
+        "author": "Job Hunting & Careers",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D774"
+      },
+      {
+        "author": "Logistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D116"
+      },
+      {
+        "author": "Management & Leadership",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D113"
+      },
+      {
+        "author": "Markets",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D123"
+      },
+      {
+        "author": "Mathematical Economics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D124"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D756"
+      },
+      {
+        "author": "Personal Finance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D118"
+      },
+      {
+        "author": "Popular",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D125"
+      },
+      {
+        "author": "Professional Finance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D119"
+      },
+      {
+        "author": "Project Management",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D115"
+      },
+      {
+        "author": "Real Estate",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D758"
+      },
+      {
+        "author": "Responsibility and Business Ethics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D117"
+      },
+      {
+        "author": "Sales & Marketing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D114"
+      },
+      {
+        "author": "Small Business",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D120"
+      },
+      {
+        "author": "Trading",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D820"
+      },
+      {
+        "author": "Chemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D6"
+      },
+      {
+        "author": "Analytical Chemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D126"
+      },
+      {
+        "author": "Biochemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D133"
+      },
+      {
+        "author": "Chemistry - General & Miscellaneous",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D135"
+      },
+      {
+        "author": "History of Chemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D130"
+      },
+      {
+        "author": "Inorganic Chemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D127"
+      },
+      {
+        "author": "Microchemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D131"
+      },
+      {
+        "author": "Organic Chemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D128"
+      },
+      {
+        "author": "Physical Chemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D129"
+      },
+      {
+        "author": "Technical & Industrial Chemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D132"
+      },
+      {
+        "author": "Children's Books",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D7"
+      },
+      {
+        "author": "Activities, Crafts & Games",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D136"
+      },
+      {
+        "author": "Animals",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D137"
+      },
+      {
+        "author": "Arts, Music & Photography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D138"
+      },
+      {
+        "author": "Cars, Trains & Things That Go",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D139"
+      },
+      {
+        "author": "Comics & Graphic Novels",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D140"
+      },
+      {
+        "author": "Computers & Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D141"
+      },
+      {
+        "author": "Early Learning",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D142"
+      },
+      {
+        "author": "Education & Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D143"
+      },
+      {
+        "author": "Fairy Tales, Folk Tales & Myths",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D144"
+      },
+      {
+        "author": "Geography & Cultures",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D145"
+      },
+      {
+        "author": "Growing Up & Facts of Life",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D146"
+      },
+      {
+        "author": "History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D147"
+      },
+      {
+        "author": "Holidays & Celebrations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D148"
+      },
+      {
+        "author": "Humour",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D149"
+      },
+      {
+        "author": "Literature & Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D150"
+      },
+      {
+        "author": "Mysteries & Detective Stories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D151"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D718"
+      },
+      {
+        "author": "Religions",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D152"
+      },
+      {
+        "author": "Science Fiction & Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D153"
+      },
+      {
+        "author": "Science, Nature & How It Works",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D154"
+      },
+      {
+        "author": "Sports & Outdoors",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D155"
+      },
+      {
+        "author": "Comics & Graphic Novels",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D8"
+      },
+      {
+        "author": "Alternative & Underground Comics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D156"
+      },
+      {
+        "author": "Anime & Manga",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D157"
+      },
+      {
+        "author": "Cartooning",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D158"
+      },
+      {
+        "author": "Children's",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D159"
+      },
+      {
+        "author": "Comic Books - History & Criticism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D160"
+      },
+      {
+        "author": "Comics & Graphic Novels - General & Miscellaneous",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D161"
+      },
+      {
+        "author": "DC Comics & Graphic Novels",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D163"
+      },
+      {
+        "author": "Marvel Comics & Graphic Novels",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D164"
+      },
+      {
+        "author": "Mystery & Thriller Comics & Graphic Novels",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D165"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D762"
+      },
+      {
+        "author": "Science Fiction, Fantasy & Horror Comics & Graphic Novels",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D166"
+      },
+      {
+        "author": "Superhero Comics & Graphic Novels",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D167"
+      },
+      {
+        "author": "Computers",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D10"
+      },
+      {
+        "author": "Algorithms and Data Structures",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D168"
+      },
+      {
+        "author": "Applications & Software",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D760"
+      },
+      {
+        "author": "Artificial Intelligence (AI)",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D169"
+      },
+      {
+        "author": "Computer Business & Culture",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D170"
+      },
+      {
+        "author": "Computer Certification & Training",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D171"
+      },
+      {
+        "author": "Computer Graphics & Design",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D172"
+      },
+      {
+        "author": "Computer Science",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D173"
+      },
+      {
+        "author": "Computers - General & Miscellaneous",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D174"
+      },
+      {
+        "author": "Cryptography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D175"
+      },
+      {
+        "author": "Cybernetics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D176"
+      },
+      {
+        "author": "Databases",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D177"
+      },
+      {
+        "author": "Digital Photography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D180"
+      },
+      {
+        "author": "Digital Video",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D181"
+      },
+      {
+        "author": "Enterprise Computing Systems",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D182"
+      },
+      {
+        "author": "Hardware",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D183"
+      },
+      {
+        "author": "Home Computer User & Beginner",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D184"
+      },
+      {
+        "author": "Information Systems",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D185"
+      },
+      {
+        "author": "Internet & World Wide Web",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D187"
+      },
+      {
+        "author": "Lectures, monographs",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D188"
+      },
+      {
+        "author": "Mac OS",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D189"
+      },
+      {
+        "author": "Media",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D190"
+      },
+      {
+        "author": "Microsoft Windows",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D191"
+      },
+      {
+        "author": "Networking",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D192"
+      },
+      {
+        "author": "New to Computing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D193"
+      },
+      {
+        "author": "Operating Systems",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D194"
+      },
+      {
+        "author": "Organization and Data Processing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D195"
+      },
+      {
+        "author": "Other",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D775"
+      },
+      {
+        "author": "PC & Video Games",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D196"
+      },
+      {
+        "author": "Professionals",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D197"
+      },
+      {
+        "author": "Programming",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D198"
+      },
+      {
+        "author": "Security",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D199"
+      },
+      {
+        "author": "UNIX & Linux",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D200"
+      },
+      {
+        "author": "Web Development",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D186"
+      },
+      {
+        "author": "Cookbooks, Food & Wine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D311"
+      },
+      {
+        "author": "Asian",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D844"
+      },
+      {
+        "author": "Baking & Desserts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D838"
+      },
+      {
+        "author": "Barbecue & Grilling",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D839"
+      },
+      {
+        "author": "Beginner's cookbook",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D846"
+      },
+      {
+        "author": "French",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D843"
+      },
+      {
+        "author": "International",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D845"
+      },
+      {
+        "author": "Italian",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D842"
+      },
+      {
+        "author": "Quick & Easy Meals",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D847"
+      },
+      {
+        "author": "Special Diet",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D848"
+      },
+      {
+        "author": "Vegetarian & Vegan",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D840"
+      },
+      {
+        "author": "Wine & Beverages",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D841"
+      },
+      {
+        "author": "Crime, Thrillers & Mystery",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D11"
+      },
+      {
+        "author": "Action & Adventure",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D201"
+      },
+      {
+        "author": "Anthologies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D202"
+      },
+      {
+        "author": "Cozy Mysteries & Amateur Sleuths",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D204"
+      },
+      {
+        "author": "Detective & Crime Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D205"
+      },
+      {
+        "author": "Historical",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D206"
+      },
+      {
+        "author": "Legal",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D207"
+      },
+      {
+        "author": "Medical",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D208"
+      },
+      {
+        "author": "Military Thrillers",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D209"
+      },
+      {
+        "author": "Other Mystery Categories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D211"
+      },
+      {
+        "author": "Other Thrillers Categories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D212"
+      },
+      {
+        "author": "Police Stories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D213"
+      },
+      {
+        "author": "Political",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D214"
+      },
+      {
+        "author": "Psychological",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D215"
+      },
+      {
+        "author": "Series",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D216"
+      },
+      {
+        "author": "Short Stories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D218"
+      },
+      {
+        "author": "Spy Stories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D219"
+      },
+      {
+        "author": "Technothrillers",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D220"
+      },
+      {
+        "author": "Thrillers",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D221"
+      },
+      {
+        "author": "True Crime",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D818"
+      },
+      {
+        "author": "Earth Sciences",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D722"
+      },
+      {
+        "author": "Cartography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D288"
+      },
+      {
+        "author": "Earth History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D743"
+      },
+      {
+        "author": "Geochemistry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D744"
+      },
+      {
+        "author": "Geodesy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D287"
+      },
+      {
+        "author": "Geography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D15"
+      },
+      {
+        "author": "Geology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D16"
+      },
+      {
+        "author": "Geophysics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D491"
+      },
+      {
+        "author": "Hydrogeology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D291"
+      },
+      {
+        "author": "Meteorology, Climatology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D290"
+      },
+      {
+        "author": "Mineralogy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D134"
+      },
+      {
+        "author": "Mining",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D292"
+      },
+      {
+        "author": "Oceanography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D745"
+      },
+      {
+        "author": "Palaeontology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D746"
+      },
+      {
+        "author": "Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D747"
+      },
+      {
+        "author": "Rivers & Lakes",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D748"
+      },
+      {
+        "author": "The Environment",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D749"
+      },
+      {
+        "author": "Volcanoes, Earthquakes & Tectonics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D750"
+      },
+      {
+        "author": "Education Studies & Teaching",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D12"
+      },
+      {
+        "author": "Academic Administration",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D223"
+      },
+      {
+        "author": "Adult & Continuing Education",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D224"
+      },
+      {
+        "author": "Bilingual & Multicultural Education",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D225"
+      },
+      {
+        "author": "Education - General & Miscellaneous",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D226"
+      },
+      {
+        "author": "Education Management & Organisation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D228"
+      },
+      {
+        "author": "Educational Guidance & Counseling",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D229"
+      },
+      {
+        "author": "Educational Theory, Research & History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D231"
+      },
+      {
+        "author": "Elementary",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D232"
+      },
+      {
+        "author": "Higher & Further Education",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D233"
+      },
+      {
+        "author": "History of Education",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D234"
+      },
+      {
+        "author": "Homeschooling",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D235"
+      },
+      {
+        "author": "Individual Colleges & Universities",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D236"
+      },
+      {
+        "author": "International Conferences and Symposiums",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D237"
+      },
+      {
+        "author": "Philosophy of Education",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D239"
+      },
+      {
+        "author": "Pre-school & Early Learning",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D238"
+      },
+      {
+        "author": "School Education & Teaching",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D240"
+      },
+      {
+        "author": "Special Education",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D241"
+      },
+      {
+        "author": "Studying & Test Preparation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D242"
+      },
+      {
+        "author": "Teaching & Teacher Training",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D244"
+      },
+      {
+        "author": "Teaching - Reading & Language",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D243"
+      },
+      {
+        "author": "Theses abstracts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D245"
+      },
+      {
+        "author": "Vocational",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D721"
+      },
+      {
+        "author": "Engineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D13"
+      },
+      {
+        "author": "Aerospace Engineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D246"
+      },
+      {
+        "author": "Automotive",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D723"
+      },
+      {
+        "author": "Bioengineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D724"
+      },
+      {
+        "author": "Chemical Engineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D247"
+      },
+      {
+        "author": "Civil & Structural Engineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D248"
+      },
+      {
+        "author": "Computer Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D249"
+      },
+      {
+        "author": "Construction & Building Trades",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D250"
+      },
+      {
+        "author": "Electrical & Electronic Engineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D251"
+      },
+      {
+        "author": "Energy & Power Resources",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D252"
+      },
+      {
+        "author": "Engineering - General & Miscellaneous",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D253"
+      },
+      {
+        "author": "Engineering Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D254"
+      },
+      {
+        "author": "Environmental",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D725"
+      },
+      {
+        "author": "Hydraulic Engineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D255"
+      },
+      {
+        "author": "Industrial Engineering & Materials Science",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D256"
+      },
+      {
+        "author": "Mechanical Engineering & Dynamics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D257"
+      },
+      {
+        "author": "Robotics & Artificial Intelligence",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D258"
+      },
+      {
+        "author": "Social & Cultural Aspects of Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D259"
+      },
+      {
+        "author": "Telecommunications",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D260"
+      },
+      {
+        "author": "Erotica",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D712"
+      },
+      {
+        "author": "Arts & Photography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D713"
+      },
+      {
+        "author": "Comics & Manga",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D714"
+      },
+      {
+        "author": "Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D715"
+      },
+      {
+        "author": "LGBTQ+",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D810"
+      },
+      {
+        "author": "Love, Erotic",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D524"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D716"
+      },
+      {
+        "author": "Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D794"
+      },
+      {
+        "author": "Dark Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D834"
+      },
+      {
+        "author": "Fairy Tales",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D835"
+      },
+      {
+        "author": "High Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D830"
+      },
+      {
+        "author": "Low Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D831"
+      },
+      {
+        "author": "Magical Realism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D832"
+      },
+      {
+        "author": "Other Fantasy Fiction Categories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D576"
+      },
+      {
+        "author": "Role-Playing Game Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D578"
+      },
+      {
+        "author": "Superhero Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D836"
+      },
+      {
+        "author": "Sword And Sorcery",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D833"
+      },
+      {
+        "author": "Urban Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D837"
+      },
+      {
+        "author": "Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D14"
+      },
+      {
+        "author": "Adventure Stories & Action",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D261"
+      },
+      {
+        "author": "American Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D262"
+      },
+      {
+        "author": "Anthologies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D263"
+      },
+      {
+        "author": "Classics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D265"
+      },
+      {
+        "author": "Contemporary Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D266"
+      },
+      {
+        "author": "Drama",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D768"
+      },
+      {
+        "author": "Essays",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D769"
+      },
+      {
+        "author": "Family Sagas",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D269"
+      },
+      {
+        "author": "Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D811"
+      },
+      {
+        "author": "Historical",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D270"
+      },
+      {
+        "author": "Horror",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D271"
+      },
+      {
+        "author": "Humour",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D272"
+      },
+      {
+        "author": "Literary Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D273"
+      },
+      {
+        "author": "Metaphysical & Visionary",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D274"
+      },
+      {
+        "author": "Myths & Folklore",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D275"
+      },
+      {
+        "author": "Nautical & Maritime Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D276"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D770"
+      },
+      {
+        "author": "Peoples & Cultures - Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D277"
+      },
+      {
+        "author": "Psychological",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D278"
+      },
+      {
+        "author": "Religious & Inspirational",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D279"
+      },
+      {
+        "author": "Short Stories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D281"
+      },
+      {
+        "author": "War & Military Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D283"
+      },
+      {
+        "author": "Westerns",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D284"
+      },
+      {
+        "author": "Women's Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D285"
+      },
+      {
+        "author": "World Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D286"
+      },
+      {
+        "author": "Young Adult",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D812"
+      },
+      {
+        "author": "History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D17"
+      },
+      {
+        "author": "African History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D299"
+      },
+      {
+        "author": "American Studies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D294"
+      },
+      {
+        "author": "Ancient History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D298"
+      },
+      {
+        "author": "Archaeology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D295"
+      },
+      {
+        "author": "Asian History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D300"
+      },
+      {
+        "author": "Australian & Oceanian History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D301"
+      },
+      {
+        "author": "Canadian History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D302"
+      },
+      {
+        "author": "Chinese History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D807"
+      },
+      {
+        "author": "European History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D303"
+      },
+      {
+        "author": "Indian History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D806"
+      },
+      {
+        "author": "Islamic History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D809"
+      },
+      {
+        "author": "Latin American History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D304"
+      },
+      {
+        "author": "Middle Ages",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D808"
+      },
+      {
+        "author": "Middle Eastern History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D305"
+      },
+      {
+        "author": "Military History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D297"
+      },
+      {
+        "author": "Russian & Soviet History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D306"
+      },
+      {
+        "author": "World History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D307"
+      },
+      {
+        "author": "Housekeeping & Leisure",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D18"
+      },
+      {
+        "author": "Activity & Game Books",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D755"
+      },
+      {
+        "author": "Antiques & Collectables",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D310"
+      },
+      {
+        "author": "Drawing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D55"
+      },
+      {
+        "author": "Fashion, Jewelry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D312"
+      },
+      {
+        "author": "Floral & Nature Crafts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D319"
+      },
+      {
+        "author": "Games: Board Games",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D313"
+      },
+      {
+        "author": "Games: Chess",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D314"
+      },
+      {
+        "author": "Gardening",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D308"
+      },
+      {
+        "author": "Glass & Metal Work",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D321"
+      },
+      {
+        "author": "Handicraft",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D315"
+      },
+      {
+        "author": "Handicraft: Cutting and Sewing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D316"
+      },
+      {
+        "author": "Interior Design & Decoration",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D322"
+      },
+      {
+        "author": "Modelmaking",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D318"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D761"
+      },
+      {
+        "author": "Papercrafts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D317"
+      },
+      {
+        "author": "Role-Playing & Fantasy Games",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D766"
+      },
+      {
+        "author": "Woodworking & Carving",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D320"
+      },
+      {
+        "author": "Jurisprudence & Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D20"
+      },
+      {
+        "author": "Business, Commercial & Financial Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D349"
+      },
+      {
+        "author": "Civil Rights Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D350"
+      },
+      {
+        "author": "Constitutional Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D351"
+      },
+      {
+        "author": "Courts & Trial Practice",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D352"
+      },
+      {
+        "author": "Criminal Law & Procedure",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D353"
+      },
+      {
+        "author": "Criminology, Forensic Science",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D355"
+      },
+      {
+        "author": "Criminology: Court. Examination",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D356"
+      },
+      {
+        "author": "Environmental Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D357"
+      },
+      {
+        "author": "Family Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D358"
+      },
+      {
+        "author": "Foreign & International Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D359"
+      },
+      {
+        "author": "General & Miscellaneous Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D360"
+      },
+      {
+        "author": "Intellectual Property",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D776"
+      },
+      {
+        "author": "Labor Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D361"
+      },
+      {
+        "author": "Legal Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D362"
+      },
+      {
+        "author": "Legal Theory & Philosophy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D363"
+      },
+      {
+        "author": "Medical Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D777"
+      },
+      {
+        "author": "Real Estate & Property Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D364"
+      },
+      {
+        "author": "Religious Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D365"
+      },
+      {
+        "author": "Tort & Liability Law",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D366"
+      },
+      {
+        "author": "Languages",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D21"
+      },
+      {
+        "author": "Arabic Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D367"
+      },
+      {
+        "author": "Chinese Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D368"
+      },
+      {
+        "author": "Comparative Studies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D369"
+      },
+      {
+        "author": "Dictionaries",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D370"
+      },
+      {
+        "author": "English as a Foreign Language & Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D377"
+      },
+      {
+        "author": "French Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D372"
+      },
+      {
+        "author": "General & Miscellaneous Languages - Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D373"
+      },
+      {
+        "author": "German Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D378"
+      },
+      {
+        "author": "Germanic Languages Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D385"
+      },
+      {
+        "author": "Grammar, dictionaries & phrasebooks",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D374"
+      },
+      {
+        "author": "Hindi Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D799"
+      },
+      {
+        "author": "Indic Languages Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D379"
+      },
+      {
+        "author": "Indonesian Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D796"
+      },
+      {
+        "author": "Italian Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D380"
+      },
+      {
+        "author": "Japanese Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D381"
+      },
+      {
+        "author": "Korean Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D795"
+      },
+      {
+        "author": "Latin Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D382"
+      },
+      {
+        "author": "Polyglot Dictionaries",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D375"
+      },
+      {
+        "author": "Portuguese Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D798"
+      },
+      {
+        "author": "Rhetoric",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D376"
+      },
+      {
+        "author": "Romance Languages Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D801"
+      },
+      {
+        "author": "Russian Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D384"
+      },
+      {
+        "author": "Slavic Languages Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D386"
+      },
+      {
+        "author": "Spanish Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D383"
+      },
+      {
+        "author": "Traditional Chinese Language Ref.",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D800"
+      },
+      {
+        "author": "Turkish Language Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D797"
+      },
+      {
+        "author": "Linguistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D22"
+      },
+      {
+        "author": "Historical & Comparative Linguistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D389"
+      },
+      {
+        "author": "Linguistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D387"
+      },
+      {
+        "author": "Semiotics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D390"
+      },
+      {
+        "author": "Sociolinguistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D388"
+      },
+      {
+        "author": "Stylistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D391"
+      },
+      {
+        "author": "Mathematics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D23"
+      },
+      {
+        "author": "Algebra",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D392"
+      },
+      {
+        "author": "Analysis",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D393"
+      },
+      {
+        "author": "Applied Mathematics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D394"
+      },
+      {
+        "author": "Automatic Control Theory",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D395"
+      },
+      {
+        "author": "Combinatorics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D396"
+      },
+      {
+        "author": "Computational Mathematics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D397"
+      },
+      {
+        "author": "Computer Algebra",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D398"
+      },
+      {
+        "author": "Continued fractions",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D399"
+      },
+      {
+        "author": "Differential Equations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D400"
+      },
+      {
+        "author": "Discrete Mathematics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D401"
+      },
+      {
+        "author": "Dynamical Systems",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D402"
+      },
+      {
+        "author": "Elementary",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D403"
+      },
+      {
+        "author": "Functional Analysis",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D404"
+      },
+      {
+        "author": "Fuzzy Logic and Applications",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D405"
+      },
+      {
+        "author": "Game Theory",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D406"
+      },
+      {
+        "author": "Geometry and Topology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D407"
+      },
+      {
+        "author": "Graph Theory",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D408"
+      },
+      {
+        "author": "Lectures",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D409"
+      },
+      {
+        "author": "Logic",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D410"
+      },
+      {
+        "author": "Mathematical Foundations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D730"
+      },
+      {
+        "author": "Mathematical Physics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D411"
+      },
+      {
+        "author": "Mathematical Statistics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D412"
+      },
+      {
+        "author": "Mathematical Theory",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D731"
+      },
+      {
+        "author": "Number Theory",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D413"
+      },
+      {
+        "author": "Numerical Analysis",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D414"
+      },
+      {
+        "author": "Operator Theory",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D415"
+      },
+      {
+        "author": "Optimal control",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D416"
+      },
+      {
+        "author": "Optimization. Operations Research",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D417"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D732"
+      },
+      {
+        "author": "Probability",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D418"
+      },
+      {
+        "author": "Puzzle",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D419"
+      },
+      {
+        "author": "Symmetry and group",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D420"
+      },
+      {
+        "author": "The complex variable",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D421"
+      },
+      {
+        "author": "Wavelets and signal processing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D422"
+      },
+      {
+        "author": "Medicine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D24"
+      },
+      {
+        "author": "Anatomy and physiology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D423"
+      },
+      {
+        "author": "Anesthesiology and Intensive Care",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D424"
+      },
+      {
+        "author": "Cardiology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D425"
+      },
+      {
+        "author": "Chinese Medicine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D426"
+      },
+      {
+        "author": "Clinical Medicine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D427"
+      },
+      {
+        "author": "Dentistry, Orthodontics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D428"
+      },
+      {
+        "author": "Dermatology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D429"
+      },
+      {
+        "author": "Diabetes",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D430"
+      },
+      {
+        "author": "Diseases",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D431"
+      },
+      {
+        "author": "Endocrinology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D433"
+      },
+      {
+        "author": "ENT",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D434"
+      },
+      {
+        "author": "Epidemiology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D435"
+      },
+      {
+        "author": "Feng Shui",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D436"
+      },
+      {
+        "author": "Health-Related Professions",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D437"
+      },
+      {
+        "author": "Histology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D438"
+      },
+      {
+        "author": "Homeopathy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D439"
+      },
+      {
+        "author": "Immunology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D440"
+      },
+      {
+        "author": "Infectious diseases",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D441"
+      },
+      {
+        "author": "Internal Medicine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D432"
+      },
+      {
+        "author": "Medicine & Nursing Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D442"
+      },
+      {
+        "author": "Medicine & Nursing Test Prep",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D443"
+      },
+      {
+        "author": "Molecular Medicine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D444"
+      },
+      {
+        "author": "Natural Medicine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D445"
+      },
+      {
+        "author": "Neurology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D446"
+      },
+      {
+        "author": "Neuroscience",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D742"
+      },
+      {
+        "author": "Nursing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D447"
+      },
+      {
+        "author": "Oncology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D448"
+      },
+      {
+        "author": "Ophthalmology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D449"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D729"
+      },
+      {
+        "author": "Pediatrics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D450"
+      },
+      {
+        "author": "Pharmacology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D451"
+      },
+      {
+        "author": "Popular scientific literature",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D452"
+      },
+      {
+        "author": "Psychiatry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D814"
+      },
+      {
+        "author": "Radiology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D813"
+      },
+      {
+        "author": "Surgery, Orthopedics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D453"
+      },
+      {
+        "author": "Therapy, Psychotherapy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D454"
+      },
+      {
+        "author": "Trial",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D455"
+      },
+      {
+        "author": "Veterinary Medicine",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D456"
+      },
+      {
+        "author": "Yoga, Ayurveda",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D457"
+      },
+      {
+        "author": "Nature, Animals & Pets",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D25"
+      },
+      {
+        "author": "Animal Care & Pets",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D309"
+      },
+      {
+        "author": "Animals",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D458"
+      },
+      {
+        "author": "Birds",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D459"
+      },
+      {
+        "author": "Cats",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D460"
+      },
+      {
+        "author": "Dinosaurs",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D461"
+      },
+      {
+        "author": "Dogs",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D462"
+      },
+      {
+        "author": "Exotic & Other Pets",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D463"
+      },
+      {
+        "author": "Field Guides",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D464"
+      },
+      {
+        "author": "Fossils",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D465"
+      },
+      {
+        "author": "Home Aquarium",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D466"
+      },
+      {
+        "author": "Horses",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D467"
+      },
+      {
+        "author": "Insects & Arachnids",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D468"
+      },
+      {
+        "author": "Mammals",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D469"
+      },
+      {
+        "author": "Marine & Aquatic Life",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D470"
+      },
+      {
+        "author": "Natural Disasters",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D471"
+      },
+      {
+        "author": "Natural History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D472"
+      },
+      {
+        "author": "Natural Terrain",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D473"
+      },
+      {
+        "author": "Nature - Other",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D474"
+      },
+      {
+        "author": "Pet Birds",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D475"
+      },
+      {
+        "author": "Pet Birds",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D752"
+      },
+      {
+        "author": "Pet Fish",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D476"
+      },
+      {
+        "author": "Pet Memoirs",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D477"
+      },
+      {
+        "author": "Pet Mice, Rabbits, Hamsters, Etc.",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D478"
+      },
+      {
+        "author": "Pet Pigs",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D479"
+      },
+      {
+        "author": "Pet Reptiles & Amphibians",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D480"
+      },
+      {
+        "author": "Pets - General & Miscellaneous",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D481"
+      },
+      {
+        "author": "Plants & Fungi",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D482"
+      },
+      {
+        "author": "Stargazing - Amateur's Manuals",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D483"
+      },
+      {
+        "author": "Weather",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D484"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D26"
+      },
+      {
+        "author": "Physics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D27"
+      },
+      {
+        "author": "Astronomy: Astrophysics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D486"
+      },
+      {
+        "author": "Atomic & Molecular",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D733"
+      },
+      {
+        "author": "Chaos & Dynamic Systems",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D734"
+      },
+      {
+        "author": "Crystal Physics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D487"
+      },
+      {
+        "author": "Electricity and Magnetism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D488"
+      },
+      {
+        "author": "Electrodynamics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D489"
+      },
+      {
+        "author": "General Courses",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D490"
+      },
+      {
+        "author": "Light, Optics & Laser",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D500"
+      },
+      {
+        "author": "Mechanics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D492"
+      },
+      {
+        "author": "Mechanics: Fluid Mechanics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D493"
+      },
+      {
+        "author": "Mechanics: Mechanics of deformable bodies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D494"
+      },
+      {
+        "author": "Mechanics: Nonlinear dynamics and chaos",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D495"
+      },
+      {
+        "author": "Mechanics: Oscillations and Waves",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D496"
+      },
+      {
+        "author": "Mechanics: Strength of Materials",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D497"
+      },
+      {
+        "author": "Mechanics: Theory of Elasticity",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D498"
+      },
+      {
+        "author": "Nuclear",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D736"
+      },
+      {
+        "author": "Optics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D499"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D735"
+      },
+      {
+        "author": "Physics of the Atmosphere",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D501"
+      },
+      {
+        "author": "Plasma Physics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D502"
+      },
+      {
+        "author": "Quantum Mechanics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D503"
+      },
+      {
+        "author": "Quantum Physics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D504"
+      },
+      {
+        "author": "Relativity",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D737"
+      },
+      {
+        "author": "Solid State Physics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D505"
+      },
+      {
+        "author": "Spectroscopy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D506"
+      },
+      {
+        "author": "States of Matter",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D738"
+      },
+      {
+        "author": "Theoretical Physics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D739"
+      },
+      {
+        "author": "Theory of Relativity and Gravitation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D507"
+      },
+      {
+        "author": "Thermodynamics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D821"
+      },
+      {
+        "author": "Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D28"
+      },
+      {
+        "author": "American Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D508"
+      },
+      {
+        "author": "Ancient & Classical Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D509"
+      },
+      {
+        "author": "Arabic & Middle Eastern Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D510"
+      },
+      {
+        "author": "Asian Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D511"
+      },
+      {
+        "author": "Australian, New Zealand, & Pacific Island Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D512"
+      },
+      {
+        "author": "Canadian Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D513"
+      },
+      {
+        "author": "English, Irish, & Scottish Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D514"
+      },
+      {
+        "author": "European Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D515"
+      },
+      {
+        "author": "General & Miscellaneous Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D516"
+      },
+      {
+        "author": "Inspirational & Religious Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D517"
+      },
+      {
+        "author": "Latin American & Caribbean Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D518"
+      },
+      {
+        "author": "Poetry Anthologies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D519"
+      },
+      {
+        "author": "Russian Poetry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D520"
+      },
+      {
+        "author": "Psychology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D29"
+      },
+      {
+        "author": "Clinical Psychology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D521"
+      },
+      {
+        "author": "Cognitive Psychology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D778"
+      },
+      {
+        "author": "Developmental Psychology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D779"
+      },
+      {
+        "author": "Neuropsychology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D780"
+      },
+      {
+        "author": "Pedagogy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D526"
+      },
+      {
+        "author": "Psychological Disorders",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D527"
+      },
+      {
+        "author": "Psychology - Theory, History & Research",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D528"
+      },
+      {
+        "author": "Psychopathy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D781"
+      },
+      {
+        "author": "Psychotherapy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D782"
+      },
+      {
+        "author": "Social Psychology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D816"
+      },
+      {
+        "author": "Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D30"
+      },
+      {
+        "author": "Almanacs & Yearbooks",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D530"
+      },
+      {
+        "author": "Atlases & Maps",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D531"
+      },
+      {
+        "author": "Consumer Guides",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D532"
+      },
+      {
+        "author": "Encyclopaedias",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D534"
+      },
+      {
+        "author": "Genealogy & Family History",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D535"
+      },
+      {
+        "author": "Library & Information Science",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D536"
+      },
+      {
+        "author": "Other Reference By Subject",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D537"
+      },
+      {
+        "author": "School Guides & Test Preparation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D538"
+      },
+      {
+        "author": "Thesauri",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D533"
+      },
+      {
+        "author": "Writing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D539"
+      },
+      {
+        "author": "Religion & Spirituality",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D31"
+      },
+      {
+        "author": "Atheism & Agnosticism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D815"
+      },
+      {
+        "author": "Bible",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D540"
+      },
+      {
+        "author": "Buddhism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D541"
+      },
+      {
+        "author": "Christianity",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D542"
+      },
+      {
+        "author": "Esoteric, Occult, & Divination",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D543"
+      },
+      {
+        "author": "Hinduism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D544"
+      },
+      {
+        "author": "Islam",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D545"
+      },
+      {
+        "author": "Judaism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D546"
+      },
+      {
+        "author": "Kabbalah",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D547"
+      },
+      {
+        "author": "Other Religions",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D549"
+      },
+      {
+        "author": "Religious Conflict",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D550"
+      },
+      {
+        "author": "Religious Studies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D551"
+      },
+      {
+        "author": "Sacred Texts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D552"
+      },
+      {
+        "author": "Spirituality",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D553"
+      },
+      {
+        "author": "Taoism & Confucianism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D817"
+      },
+      {
+        "author": "Theosophy & New Age",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D753"
+      },
+      {
+        "author": "Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D32"
+      },
+      {
+        "author": "Collections & Anthologies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D554"
+      },
+      {
+        "author": "Contemporary Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D555"
+      },
+      {
+        "author": "Dark Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D802"
+      },
+      {
+        "author": "Erotic Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D805"
+      },
+      {
+        "author": "Fantasy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D557"
+      },
+      {
+        "author": "Gothic Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D558"
+      },
+      {
+        "author": "Historical Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D559"
+      },
+      {
+        "author": "Interracial",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D560"
+      },
+      {
+        "author": "LGBTQ+ Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D803"
+      },
+      {
+        "author": "Military Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D561"
+      },
+      {
+        "author": "Other Romance Categories",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D562"
+      },
+      {
+        "author": "Paranormal Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D563"
+      },
+      {
+        "author": "Religious Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D564"
+      },
+      {
+        "author": "Romantic Comedy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D565"
+      },
+      {
+        "author": "Romantic Westerns",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D566"
+      },
+      {
+        "author": "Science Fiction Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D567"
+      },
+      {
+        "author": "Time Travel Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D568"
+      },
+      {
+        "author": "Young Adult Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D804"
+      },
+      {
+        "author": "Science (General)",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D33"
+      },
+      {
+        "author": "International Conferences and Symposiums",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D569"
+      },
+      {
+        "author": "Research & Development",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D740"
+      },
+      {
+        "author": "Science of Science",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D570"
+      },
+      {
+        "author": "Scientific and popular: Journalism",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D572"
+      },
+      {
+        "author": "Scientific-popular",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D571"
+      },
+      {
+        "author": "Theories of Science",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D767"
+      },
+      {
+        "author": "Science Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D34"
+      },
+      {
+        "author": "Alternate Realities",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D573"
+      },
+      {
+        "author": "Cyberpunk",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D828"
+      },
+      {
+        "author": "Dystopian Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D825"
+      },
+      {
+        "author": "Fantasy Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D574"
+      },
+      {
+        "author": "High Tech & Hard Sci-Fi",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D575"
+      },
+      {
+        "author": "Military Science Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D823"
+      },
+      {
+        "author": "Other Sci-Fi",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D577"
+      },
+      {
+        "author": "Space Opera",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D826"
+      },
+      {
+        "author": "Space Western",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D827"
+      },
+      {
+        "author": "Steampunk",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D829"
+      },
+      {
+        "author": "Supernatural Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D822"
+      },
+      {
+        "author": "Utopian Fiction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D824"
+      },
+      {
+        "author": "Self-Help, Relationships & Lifestyle",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D35"
+      },
+      {
+        "author": "Addiction & Recovery",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D582"
+      },
+      {
+        "author": "Aging",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D583"
+      },
+      {
+        "author": "Alternative Medicine & Natural Healing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D584"
+      },
+      {
+        "author": "Beauty & Fashion",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D585"
+      },
+      {
+        "author": "Dating",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D587"
+      },
+      {
+        "author": "Diet & Nutrition",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D588"
+      },
+      {
+        "author": "Digital Lifestyle",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D178"
+      },
+      {
+        "author": "Divorce",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D589"
+      },
+      {
+        "author": "Emotional Healing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D590"
+      },
+      {
+        "author": "Exercise & Fitness",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D591"
+      },
+      {
+        "author": "Families & Parents",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D592"
+      },
+      {
+        "author": "Health - Diseases & Disorders",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D593"
+      },
+      {
+        "author": "Love & Romance",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D595"
+      },
+      {
+        "author": "Marriage",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D596"
+      },
+      {
+        "author": "Men's Health & Lifestyle",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D598"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D719"
+      },
+      {
+        "author": "Personal Growth & Inspiration",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D599"
+      },
+      {
+        "author": "Pregnancy & Childcare",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D600"
+      },
+      {
+        "author": "Psychological Self-Help",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D601"
+      },
+      {
+        "author": "Relationships",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D604"
+      },
+      {
+        "author": "Sexuality",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D606"
+      },
+      {
+        "author": "The Art of Communication",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D529"
+      },
+      {
+        "author": "Weddings",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D607"
+      },
+      {
+        "author": "Women's Health & Lifestyle",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D608"
+      },
+      {
+        "author": "Society, Politics & Philosophy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D36"
+      },
+      {
+        "author": "Ancient & Medieval Philosophy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D609"
+      },
+      {
+        "author": "Anthropology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D95"
+      },
+      {
+        "author": "Asian Philosophy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D610"
+      },
+      {
+        "author": "Cultural",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D611"
+      },
+      {
+        "author": "Ethnography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D612"
+      },
+      {
+        "author": "European & American Philosophy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D613"
+      },
+      {
+        "author": "General & Miscellaneous Philosophy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D614"
+      },
+      {
+        "author": "Government & Politics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D615"
+      },
+      {
+        "author": "International Relations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D620"
+      },
+      {
+        "author": "Journalism, Media",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D616"
+      },
+      {
+        "author": "Major Branches of Philosophical Study",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D617"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D720"
+      },
+      {
+        "author": "Philosophical Positions & Movements",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D764"
+      },
+      {
+        "author": "Politics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D619"
+      },
+      {
+        "author": "Renaissance & Modern Philosophy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D621"
+      },
+      {
+        "author": "Social Sciences",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D622"
+      },
+      {
+        "author": "Sociology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D623"
+      },
+      {
+        "author": "Warfare & Defence",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D624"
+      },
+      {
+        "author": "Women's Studies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D625"
+      },
+      {
+        "author": "Sports, Hobbies & Games",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D37"
+      },
+      {
+        "author": "Air Sports",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D626"
+      },
+      {
+        "author": "Athletics & Gymnastics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D627"
+      },
+      {
+        "author": "Ball Games",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D628"
+      },
+      {
+        "author": "Bike",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D632"
+      },
+      {
+        "author": "Boating & Sailing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D629"
+      },
+      {
+        "author": "Bodybuilding",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D630"
+      },
+      {
+        "author": "Climbing & Mountaineering",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D631"
+      },
+      {
+        "author": "Fencing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D633"
+      },
+      {
+        "author": "Football & Rugby",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D634"
+      },
+      {
+        "author": "Golf",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D635"
+      },
+      {
+        "author": "Hockey",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D636"
+      },
+      {
+        "author": "Hunting & Fishing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D637"
+      },
+      {
+        "author": "Martial Arts",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D638"
+      },
+      {
+        "author": "Motor Sports",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D639"
+      },
+      {
+        "author": "Olympics & Olympic Sports",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D640"
+      },
+      {
+        "author": "Other Sports",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D641"
+      },
+      {
+        "author": "Outdoor & Adventure Sports",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D642"
+      },
+      {
+        "author": "Survival",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D643"
+      },
+      {
+        "author": "Training & Coaching",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D644"
+      },
+      {
+        "author": "Water Sports",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D645"
+      },
+      {
+        "author": "Winter Sports",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D646"
+      },
+      {
+        "author": "Technique",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D38"
+      },
+      {
+        "author": "Aerospace Equipment",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D647"
+      },
+      {
+        "author": "Automation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D648"
+      },
+      {
+        "author": "Communication",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D649"
+      },
+      {
+        "author": "Construction",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D650"
+      },
+      {
+        "author": "Construction: Cement Industry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D651"
+      },
+      {
+        "author": "Construction: Renovation and interior design",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D652"
+      },
+      {
+        "author": "Construction: Ventilation and Air Conditioning",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D653"
+      },
+      {
+        "author": "Electronics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D654"
+      },
+      {
+        "author": "Electronics: Fiber Optics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D655"
+      },
+      {
+        "author": "Electronics: Hardware",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D656"
+      },
+      {
+        "author": "Electronics: Home Electronics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D657"
+      },
+      {
+        "author": "Electronics: Microprocessor Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D658"
+      },
+      {
+        "author": "Electronics: Radio",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D659"
+      },
+      {
+        "author": "Electronics: Robotics",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D660"
+      },
+      {
+        "author": "Electronics: Signal Processing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D661"
+      },
+      {
+        "author": "Electronics: Telecommunications",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D662"
+      },
+      {
+        "author": "Electronics: TV. Video",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D663"
+      },
+      {
+        "author": "Electronics: VLSI",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D664"
+      },
+      {
+        "author": "Energy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D665"
+      },
+      {
+        "author": "Energy: Renewable Energy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D666"
+      },
+      {
+        "author": "Experiments, Instruments & Measurements",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D671"
+      },
+      {
+        "author": "Food Manufacturing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D667"
+      },
+      {
+        "author": "Fuel Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D668"
+      },
+      {
+        "author": "Heat",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D669"
+      },
+      {
+        "author": "Industrial Equipment and Technology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D670"
+      },
+      {
+        "author": "Light Industry",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D672"
+      },
+      {
+        "author": "Marine & Nautical",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D726"
+      },
+      {
+        "author": "Materials",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D673"
+      },
+      {
+        "author": "Metallurgy",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D674"
+      },
+      {
+        "author": "Metrology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D675"
+      },
+      {
+        "author": "Military equipment",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D676"
+      },
+      {
+        "author": "Military equipment: Missiles",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D678"
+      },
+      {
+        "author": "Military equipment: Weapon",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D677"
+      },
+      {
+        "author": "Nanotechnology",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D679"
+      },
+      {
+        "author": "Oil and Gas Technologies",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D680"
+      },
+      {
+        "author": "Others",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D727"
+      },
+      {
+        "author": "Patent Business. Ingenuity. Innovation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D681"
+      },
+      {
+        "author": "Publishing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D682"
+      },
+      {
+        "author": "Refrigeration",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D683"
+      },
+      {
+        "author": "Regulatory Literature",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D684"
+      },
+      {
+        "author": "Safety and Security",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D685"
+      },
+      {
+        "author": "Transport",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D686"
+      },
+      {
+        "author": "Transportation: Aviation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D687"
+      },
+      {
+        "author": "Transportation: Cars, Motorcycles",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D688"
+      },
+      {
+        "author": "Transportation: Rail",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D689"
+      },
+      {
+        "author": "Transportation: Ships",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D690"
+      },
+      {
+        "author": "Water Treatment",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D691"
+      },
+      {
+        "author": "Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D39"
+      },
+      {
+        "author": "Africa - Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D692"
+      },
+      {
+        "author": "Asia - Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D693"
+      },
+      {
+        "author": "Atlases & Maps",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D694"
+      },
+      {
+        "author": "Australia & Oceania - Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D695"
+      },
+      {
+        "author": "Canadian & North American Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D696"
+      },
+      {
+        "author": "Europe - Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D697"
+      },
+      {
+        "author": "Food, Lodging & Transportation",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D698"
+      },
+      {
+        "author": "Latin American & Caribbean Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D699"
+      },
+      {
+        "author": "Middle East - Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D700"
+      },
+      {
+        "author": "Pictorial",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D701"
+      },
+      {
+        "author": "Reference",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D702"
+      },
+      {
+        "author": "Specialty Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D703"
+      },
+      {
+        "author": "Travel - Cities of the World",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D704"
+      },
+      {
+        "author": "Travel - General & Miscellaneous",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D705"
+      },
+      {
+        "author": "Travel - Interests, Activities & Accommodations",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D706"
+      },
+      {
+        "author": "Travel - Natural & Man-made Wonders of the World",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D707"
+      },
+      {
+        "author": "Travel Essays & Descriptions",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D708"
+      },
+      {
+        "author": "Travel Photography",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D709"
+      },
+      {
+        "author": "Travel Writing",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D710"
+      },
+      {
+        "author": "United States of America - Travel",
+        "author_url": "https://z-library.sk/recently%3Fcid%3D711"
+      },
+      {
+        "author": "Show all categories",
+        "author_url": "https://z-library.sk/categories"
+      }
+    ],
+    "link": "https://z-library.sk/book/115153690/159a5e/the-slave-in-legal-and-political-philosophy.html",
+    "cover": "",
+    "category": "society",
+    "language": "english",
+    "year": "2025",
+    "date": "2025-04-22"
+  },
+  {
+    "title": "Victor Cousin: Philosophical Fragments (British Society for the History of Philosophy:New Texts in the History of Philosophy)",
+    "author": [
+      {
+        "author": "Delphine Antoine-Mahut",
+        "author_url": "https://z-library.sk/author/Delphine%20Antoine-Mahut"
+      },
+      {
+        "author": "Daniel Whistler",
+        "author_url": "https://z-library.sk/author/Daniel%20Whistler"
+      },
+      {
+        "author": "0 comments",
+        "author_url": "https://z-library.sk%23post"
+      },
+      {
+        "author": "Amazon",
+        "author_url": "https://z-library.skhttps%3A//amazon.com/s%3Fk%3DVictor%2BCousin%253A%2BPhilosophical%2BFragments%2B%2528British%2BSociety%2Bfor%20Delphine%2BAntoine-Mahut%2BDaniel%2BWhistler"
+      },
+      {
+        "author": "Barnes & Noble",
+        "author_url": "https://z-library.skhttps%3A//www.barnesandnoble.com/s/Victor%2BCousin%253A%2BPhilosophical%2BFragments%2B%2528British%2BSociety%2Bfor%20Delphine%2BAntoine-Mahut%2BDaniel%2BWhistler"
+      },
+      {
+        "author": "Bookshop.org",
+        "author_url": "https://z-library.skhttps%3A//bookshop.org/search%3Fkeywords%3DVictor%2BCousin%253A%2BPhilosophical%2BFragments%2B%2528British%2BSociety%2Bfor%20Delphine%2BAntoine-Mahut%2BDaniel%2BWhistler"
+      },
+      {
+        "author": "support@z-lib.fm",
+        "author_url": "https://z-library.skmailto%3Asupport%40z-lib.fm"
+      },
+      {
+        "author": "Society, Politics & Philosophy - General & Miscellaneous Philosophy",
+        "author_url": "https://z-library.sk/category/614/Society-Politics--Philosophy-General--Miscellaneous-Philosophy"
+      }
+    ],
+    "link": "https://z-library.sk/book/110142095/d81b34/victor-cousin-philosophical-fragments-british-society-for-the-history-of-philosophynew-texts-in-t.html",
+    "cover": "",
+    "category": "society",
+    "language": "english",
+    "year": "2025",
+    "date": "2025-04-22"
+  },
+  {
+    "title": "The Rise of Polarization: Affects, Politics, and Philosophy",
+    "author": [
+      {
+        "author": "Manuel Almagro",
+        "author_url": "https://z-library.sk/author/Manuel%20Almagro"
+      },
+      {
+        "author": "1 comment",
+        "author_url": "https://z-library.sk%23post"
+      },
+      {
+        "author": "Amazon",
+        "author_url": "https://z-library.skhttps%3A//amazon.com/s%3Fk%3DThe%2BRise%2Bof%2BPolarization%253A%2BAffects%252C%2BPolitics%252C%2Band%2BPhilosophy%20Manuel%2BAlmagro"
+      },
+      {
+        "author": "Barnes & Noble",
+        "author_url": "https://z-library.skhttps%3A//www.barnesandnoble.com/s/The%2BRise%2Bof%2BPolarization%253A%2BAffects%252C%2BPolitics%252C%2Band%2BPhilosophy%20Manuel%2BAlmagro"
+      },
+      {
+        "author": "Bookshop.org",
+        "author_url": "https://z-library.skhttps%3A//bookshop.org/search%3Fkeywords%3DThe%2BRise%2Bof%2BPolarization%253A%2BAffects%252C%2BPolitics%252C%2Band%2BPhilosophy%20Manuel%2BAlmagro"
+      },
+      {
+        "author": "support@z-lib.fm",
+        "author_url": "https://z-library.skmailto%3Asupport%40z-lib.fm"
+      },
+      {
+        "author": "Society, Politics & Philosophy - Philosophical Positions & Movements",
+        "author_url": "https://z-library.sk/category/764/Society-Politics--Philosophy-Philosophical-Positions--Movements"
+      }
+    ],
+    "link": "https://z-library.sk/book/115745933/22a35f/the-rise-of-polarization-affects-politics-and-philosophy.html",
+    "cover": "",
+    "category": "society",
+    "language": "english",
+    "year": "2025",
+    "date": "2025-04-22"
+  },
+  {
+    "title": "Language Education, Politics and Technology in South Asia: Shaping Inclusive Societies, Identities, and Futures",
+    "author": [
+      {
+        "author": "Uma Pradhan",
+        "author_url": "https://z-library.sk/author/Uma%20Pradhan"
+      },
+      {
+        "author": "Mohini Gupta",
+        "author_url": "https://z-library.sk/author/Mohini%20Gupta"
+      },
+      {
+        "author": "(eds.)",
+        "author_url": "https://z-library.sk/author/%2528eds.%2529"
+      },
+      {
+        "author": "0 comments",
+        "author_url": "https://z-library.sk%23post"
+      },
+      {
+        "author": "Amazon",
+        "author_url": "https://z-library.skhttps%3A//amazon.com/s%3Fk%3DLanguage%2BEducation%252C%2BPolitics%2Band%2BTechnology%2Bin%2BSouth%2BAsia%253A%20Uma%2BPradhan%2BMohini%2BGupta%2B%2528eds.%2529"
+      },
+      {
+        "author": "Barnes & Noble",
+        "author_url": "https://z-library.skhttps%3A//www.barnesandnoble.com/s/Language%2BEducation%252C%2BPolitics%2Band%2BTechnology%2Bin%2BSouth%2BAsia%253A%20Uma%2BPradhan%2BMohini%2BGupta%2B%2528eds.%2529"
+      },
+      {
+        "author": "Bookshop.org",
+        "author_url": "https://z-library.skhttps%3A//bookshop.org/search%3Fkeywords%3DLanguage%2BEducation%252C%2BPolitics%2Band%2BTechnology%2Bin%2BSouth%2BAsia%253A%20Uma%2BPradhan%2BMohini%2BGupta%2B%2528eds.%2529"
+      },
+      {
+        "author": "support@z-lib.fm",
+        "author_url": "https://z-library.skmailto%3Asupport%40z-lib.fm"
+      },
+      {
+        "author": "Education Studies & Teaching - Teaching - Reading & Language",
+        "author_url": "https://z-library.sk/category/243/Education-Studies--Teaching-Teaching-Reading--Language"
+      }
+    ],
+    "link": "https://z-library.sk/book/115906976/4d7fe1/language-education-politics-and-technology-in-south-asia-shaping-inclusive-societies-identities.html",
+    "cover": "",
+    "category": "society",
+    "language": "english",
+    "year": "2025",
+    "date": "2025-04-22"
+  }
+]
