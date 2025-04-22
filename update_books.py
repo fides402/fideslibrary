@@ -4,10 +4,12 @@ import asyncio
 from datetime import datetime
 from zlibrary import AsyncZlib, Language
 
+# Credenziali prese dai GitHub Secrets
 ZLIB_EMAIL = os.environ['ZLIB_EMAIL']
 ZLIB_PASSWORD = os.environ['ZLIB_PASSWORD']
 today = datetime.today().strftime("%Y-%m-%d")
 
+# Query per categoria
 CATEGORIES = {
     "business": "Business Economics",
     "psychology": "Psychology",
@@ -21,7 +23,7 @@ async def fetch_books():
     print("✅ Login effettuato con successo.")
 
     for category, query in CATEGORIES.items():
-        print(f"🔎 Ricerca per categoria: {category}")
+        print(f"🔍 Ricerca per: {category}")
         paginator = await zlib.search(
             q=query,
             count=50,
@@ -34,9 +36,13 @@ async def fetch_books():
 
         for item in results:
             book = await item.fetch()
+
+            authors_raw = book.get("authors", [])
+            authors = ", ".join(authors_raw) if isinstance(authors_raw, list) else authors_raw
+
             books.append({
                 "title": book.get("name", "Senza titolo"),
-                "author": book.get("authors", "Sconosciuto"),
+                "author": authors or "Sconosciuto",
                 "link": book.get("mirror_1", book.get("url", "")),
                 "cover": book.get("cover", ""),
                 "category": category,
@@ -51,6 +57,7 @@ async def fetch_books():
         print(f"📁 Salvati {len(books)} libri in data/{category}.json")
 
     await zlib.logout()
+    print("🚪 Logout completato.")
 
 if __name__ == "__main__":
     asyncio.run(fetch_books())
