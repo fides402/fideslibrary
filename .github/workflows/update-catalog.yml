@@ -1,0 +1,32 @@
+name: Aggiorna catalogo libri
+
+on:
+  schedule:
+    - cron: '0 4 * * *'  # ogni giorno alle 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clona il repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Installa dipendenze
+        run: pip install requests beautifulsoup4
+
+      - name: Esegui script di scraping
+        run: python update_books.py
+
+      - name: Commit e push se ci sono modifiche
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          git commit -m "📚 Update catalogo automatico" || echo "Nessuna modifica"
+          git push
