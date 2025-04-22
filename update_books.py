@@ -4,14 +4,10 @@ import asyncio
 from datetime import datetime
 from zlibrary import AsyncZlib
 
-# Legge le credenziali dalle variabili d'ambiente (impostate nei GitHub Secrets)
 ZLIB_EMAIL = os.environ['ZLIB_EMAIL']
 ZLIB_PASSWORD = os.environ['ZLIB_PASSWORD']
-
-# Data corrente
 today = datetime.today().strftime("%Y-%m-%d")
 
-# Query per ciascuna "categoria"
 CATEGORIES = {
     "business": "Business Economics",
     "psychology": "Psychology",
@@ -21,14 +17,13 @@ CATEGORIES = {
 
 async def fetch_books():
     zlib = AsyncZlib()
-
     print("🔐 Connessione a Z-Library...")
     await zlib.login(ZLIB_EMAIL, ZLIB_PASSWORD)
     print("✅ Login effettuato con successo.")
 
     for category, query in CATEGORIES.items():
         print(f"🔎 Ricerca libri per '{category}'...")
-        paginator = await zlib.search(q=query, count=12, year_from=2025)
+        paginator = await zlib.search(q=query, count=12)  # 🔥 Rimosso year_from
         results = await paginator.next()
 
         books = []
@@ -44,12 +39,10 @@ async def fetch_books():
                 "date": today
             })
 
-        # Salvataggio nel file JSON corrispondente
-        file_path = f"data/{category}.json"
-        with open(file_path, "w", encoding="utf-8") as f:
+        with open(f"data/{category}.json", "w", encoding="utf-8") as f:
             json.dump(books, f, ensure_ascii=False, indent=2)
 
-        print(f"📁 Salvati {len(books)} libri in '{file_path}'.")
+        print(f"📁 Salvati {len(books)} libri in 'data/{category}.json'.")
 
     await zlib.logout()
     print("🚪 Logout completato.")
